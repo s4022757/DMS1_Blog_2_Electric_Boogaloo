@@ -126,7 +126,7 @@ The Black Box Multimedia Space was our next stop, found on level 2 of building 1
 
 The room was locked, so its suprising interior size had to be inferred on behalf of my recount.
 
-Without insider knowledge, this find would have been a real head scratcher. I suppose RMIT's Campus planning department would do well to undertake DMS1's third stage. Wayfinding is challenging without proper signifiers to help orient students. An explicit sign or room number label would certainly improve student's spatial journies. [;)]
+Without insider knowledge, this find would have been a real head scratcher. I suppose RMIT's Campus planning department would do well to undertake DMS1's third stage. Wayfinding is challenging without proper signifiers to help orient students. An explicit sign or room number label would certainly improve student's spatial journies. ;)
 
 #### Beverages à la far-away
 
