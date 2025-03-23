@@ -17,7 +17,7 @@ For some extracurricular kudos, I will now answer some non-required questions ab
 
 Hi, I'm Curtis.
 
-![A selfie](static/250303/selfie.jpeg)
+![A selfie](250303/selfie.jpeg)
 
 I am 26 years old and have been studying *poorly* here at RMIT since the start of 2024.
 
@@ -56,7 +56,7 @@ The team consisted of my new friends Alan, Alyanna, Benny, Jennifer, Wendy & Zak
 ### The List
 Here is what we were asked to find:
 
-![Scavenger Hunt List](static/250303/scavlist.png)
+![Scavenger Hunt List](250303/scavlist.png)
 
 I had an admittedly unfair advantage over other students, so I used the opportunity to guide my fellow teammates and *definitely* suppressed all competitive urges.
 
@@ -64,25 +64,25 @@ I had an admittedly unfair advantage over other students, so I used the opportun
 
 First off was an explosive cup of coffee, which describes the logo of Bang Coffee on Swanston Street.
 
-![explosive coffee](static/250303/explosivecoffee.jpg)
+![explosive coffee](250303/explosivecoffee.jpg)
 
 #### Book of Wisdom 
 
 Then we had to find a book containing digital media wisdom amungst many. So we trotted off to Swanston Library, and searched the catalog to find Super Connected: The Internet, Digital Media, and Techno-Social Life by Chayko, M.
 
-![book of wisdom](static/250303/bookofwisdom.jpg)
+![book of wisdom](250303/bookofwisdom.jpg)
 
 #### Net above
 
 Before that however, as we entered Swanston Library, we spotted behind a window a net woven from paper hanging above level 4 of Building 10. Wouldn't want to fall that far, I'd say it qualifies.
 
-![net up high](static/250303/netuphigh.jpg)
+![net up high](250303/netuphigh.jpg)
 
 #### Curtain of Roots
 
 This entry stumped us. While this find was certainly a stretch, our team made a cunning plan to make a photo op that could, with a degree of leniency, qualify.
 
-![curtain of roots with authentic winged visitor](static/250303/wingedvisitor.jpg)
+![curtain of roots with authentic winged visitor](250303/wingedvisitor.jpg)
 
 #### Door of Condemnation
 
@@ -95,7 +95,7 @@ The definition of the term *condemned* has multiple meanings. One of which held 
 
 With that in mind, we went to explore the Old Melbourne Gaol.
 
-![door for condemned](static/250303/door4condemned.jpg)
+![door for condemned](250303/door4condemned.jpg)
 
 The plaque next to the door was a *dead* giveaway. 
 
@@ -105,13 +105,13 @@ The plaque next to the door was a *dead* giveaway.
 
 Found next to Swanston Library's second floor is a study area perfect for behooded imperial schemeing, a.k.a. last minute deadline frenzies.
 
-![sith lord study area](static/250303/sithlordstudy.jpg)
+![sith lord study area](250303/sithlordstudy.jpg)
 
 #### #ApeHands
 
 Found on Bowen street, near the corner to La Trobe St, is a statue of an ape's hands throwing up signs. 
 
-![ape hands statue](static/250303/apehands.jpg)
+![ape hands statue](250303/apehands.jpg)
 
 Unsure of the meaning of this public art installment although I suppose it is always important to remember that gang violence can lead to dismemberment. 
 
@@ -119,7 +119,7 @@ Unsure of the meaning of this public art installment although I suppose it is al
 
 The Black Box Multimedia Space was our next stop, found on level 2 of building 12. Yes, level 2, which is below ground level. *Go figure.*
 
-![Black Box Theatre](static/250303/blackbox.jpg)
+![Black Box Theatre](250303/blackbox.jpg)
 
 The room was locked, so its suprising interior size had to be inferred on behalf of my recount.
 
@@ -135,7 +135,7 @@ The Flying Turtle coffee and bubble tea machine seemed a likely contender, altho
 
 So instead we found this here rather obtuse specimen.
 
-![faraway beverage dispenser](static/250303/bevsallafaraway.jpg)
+![faraway beverage dispenser](250303/bevsallafaraway.jpg)
 
 #### Tower of eights
 
@@ -143,12 +143,12 @@ Finally, we had to find a golden globe perched upon a tower of eights.
 
 Based on Thomas' tip around the choice of polygonal boundaries of our play area, we consulted the map which defined the confines of our search.
 
-![scavenger hunt map](static/250303/scavmap.jpg)
+![scavenger hunt map](250303/scavmap.jpg)
 
 What a strange choice to include the little nub in the top right along Victoria St and Russel St. So, off we went to investigate.
 
 Lo and behold:
-![tower of eights](static/250303/towerof8.jpg)
+![tower of eights](250303/towerof8.jpg)
 
 ### Success
 
@@ -164,7 +164,7 @@ Leaving class on a high note, I continued on with some tasks outside of class.
 
 To ensure I'm all set to complete this course, I'll have to make sure I have the necessary software installed.
 
-![softwarez](static/250303/programsinstalled.png)
+![softwarez](250303/programsinstalled.png)
 
 Luckily I already did.
 
@@ -173,8 +173,8 @@ Luckily I already did.
 To ensure I can actually utilise these programs, I'll also have to make sure I have accounts set up.
 
 First for Unity:
-![unity account](static/250303/unityaccount.png)
+![unity account](250303/unityaccount.png)
 
 Now, Figma:
-![figma account](static/250303/figmaaccount.png)
+![figma account](250303/figmaaccount.png)
 
