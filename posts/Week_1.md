@@ -153,7 +153,7 @@ What a strange choice to include the little nub in the top right along Victoria 
 Lo and behold:
 ![tower of eights](250303/towerof8.jpg)
 
-### Success
+### Success!
 
 With that last item found, we returned to the classroom to boast our triumph.
 
@@ -181,3 +181,50 @@ First for Unity:
 Now, Figma:
 ![figma account](250303/figmaaccount.png)
 
+
+# Session 2
+
+In this session we had a look at self-portraits along with some editing principles that would be good to keep in mind while producing our first upcoming assessment.
+
+We looked at a number of great examples in cinema. I'll have to think about have I can recreate similar shots in my film.
+
+## Homework
+
+### LinkedIn Learning
+To learn more about how to use Adobe Premiere, we've been asked to take a course available through LinkedIn Learning.
+
+Let's set up an account:
+![linkedin learning account](250307/lilaccount.png)
+Jks, already have one.
+
+Now, let's navigate to the Premiere Pro Essentials training course.
+
+Ah, there's a new version of the program since I last took DMS1. No shortcuts here. May as well take this as an opportunity to brush up on my understanding of the program.
+
+Lets start the Premiere Pro 2025 Essential Training by Ashley Kennedy.
+
+![chapter 1](250307/lilchap1.png)
+![chapter 2 & 3](250307/lilchap2-3.png)
+![chapter 4](250307/lilchap4.png)
+
+Alright, not much has changed but its still good to know my way around new features.
+
+### Setting up for upload
+
+When our project is complete we'll need to upload it somewhere. There are two typical choices: Vimeo, & YouTube.
+
+YouTube seems like the obvious choice, let's set up an account.
+
+Luckily I get a google account through my RMIT account, lets now log in to youtube.
+
+Ahh, for some reason Youtube is blocked by the institution's management of the profile. 
+
+![youtube is blocked]()
+
+How helpful.
+
+Well I suppose I can use my personal account to upload instead, if need be.
+
+As an alternative, let's set up Vimeo.
+
+![vimeo account](250307/vimeo.png)
