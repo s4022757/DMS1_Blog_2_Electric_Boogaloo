@@ -89,8 +89,11 @@ This entry stumped us. While this find was certainly a stretch, our team made a 
 The definition of the term *condemned* has multiple meanings. One of which held the key to finding this item. To quote Oxford Dictionary:
 
 ##### Condemned:
+
 *adjective*
+
 "Sentenced to a particular punishment, especially death."
+
 [^1]Oxford Languages, *Oxford University Press*
 
 With that in mind, we went to explore the Old Melbourne Gaol.
