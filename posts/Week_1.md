@@ -219,7 +219,7 @@ Luckily I get a google account through my RMIT account, lets now log in to youtu
 
 Ahh, for some reason Youtube is blocked by the institution's management of the profile. 
 
-![youtube is blocked]()
+![youtube is blocked](250307/utube404.png)
 
 How helpful.
 
@@ -228,3 +228,5 @@ Well I suppose I can use my personal account to upload instead, if need be.
 As an alternative, let's set up Vimeo.
 
 ![vimeo account](250307/vimeo.png)
+
+Nice one. Only problem is that vimeo only provides its free users with 1GB worth of upload. That won't last for my whole degree, but should be fine for my self-portrait.
